@@ -2,6 +2,7 @@ body
 {
     background-image: url(Fundo\ Preto.png);
     background-repeat: repeat;
+    
     color: rgb(228, 216, 216);
     h1 { font-family: arial; };
     h1 { font-size: 30px; };
