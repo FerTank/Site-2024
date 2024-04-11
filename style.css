@@ -7,7 +7,7 @@ background: linear-gradient(to left, #000000, #EB5757); /* W3C, IE 10+/ Edge, Fi
     color: rgb(228, 216, 216);
     h1 { font-family: arial; };
     h1 { font-size: 30px; };
-    h1 { text-align: center;};
+    h1 { text-aligner: center;};
 
     h2 { font-size: 30px; };
     h2 { font-family: arial; };
@@ -18,7 +18,7 @@ background: linear-gradient(to left, #000000, #EB5757); /* W3C, IE 10+/ Edge, Fi
     p { font-family: arial; };
     p { font-size: 16px; };
     p { text-decoration: none; };
-    p { text-align: justify: center };
+    p { text-aligner: justify: center };
 
     li { color: rgb(255, 0, 0); };
     
