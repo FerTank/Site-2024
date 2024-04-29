@@ -7,8 +7,7 @@ background: linear-gradient(to left, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, Fi
     color: rgb(228, 216, 216);
     h1 { font-family: arial; };
     h1 { font-size: 30px; };
-    h1 { text-aligner: center; };
-
+    
     h2 { font-size: 30px; };
     h2 { font-family: arial; };
      
@@ -24,5 +23,9 @@ background: linear-gradient(to left, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, Fi
     
     a { color: rgb(255, 0, 0); };
     a { text-decoration: none;  };
+
+.titulo{
+  text-align: center;
+  
 
 }
