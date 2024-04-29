@@ -17,15 +17,39 @@ background: linear-gradient(to left, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, Fi
     p { font-family: arial; };
     p { font-size: 16px; };
     p { text-decoration: none; };
-    p { text-aligner: justify: center };
+    p { text-align: justify };
 
     li { color: rgb(255, 0, 0); };
     
-    a { color: rgb(255, 0, 0); };
+    a { color: rgb(47, 0, 255); };
     a { text-decoration: none;  };
-
+    } 
+  
 .titulo{
   text-align: center;
-  
+ }
+ .Denver{
+  text-align: center;
+ }
+ .Eras{ 
+  text-align: center;
+ }
+ 
+ .Pimp { 
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: arial;
+  text-align: justify;
 
+ }
+ .Pp {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: Verdana;
+  text-align: justify;
 }
+
+
+
+ 
+
